@@ -1,0 +1,8 @@
+classicAspCasSaml
+-----------------
+
+2012-03-20 David Perrin <dperrin@keene.edu>
+v0.01 - alpha
+project created 
+
+
